@@ -1,7 +1,7 @@
 ## SQL Lab (3.02)
 ### María Campaña
-1. Normalize the following blog database and write the DDL scripts to create the database tables
-2. Normalize the following airline database and write the DDL scripts to create the database tables
+1. Normalize the blog database and write the DDL scripts to create the database tables
+2. Normalize the airline database and write the DDL scripts to create the database tables
 3. In the Airline database write the SQL script to get the total number of flights in the database
 4. In the Airline database write the SQL script to get the average flight distance
 5. In the Airline database write the SQL script to get the average number of seats
